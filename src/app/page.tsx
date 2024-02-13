@@ -3,7 +3,7 @@
 export default function Home() {
     return (
         <main className="">
-           Hello Worlddsd
+           Hello World!
         </main>
     )
 }
