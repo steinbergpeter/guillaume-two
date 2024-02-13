@@ -1,9 +1,9 @@
-import Image from 'next/image'
+'use client'
 
 export default function Home() {
     return (
         <main className="">
-           Hello World
+           Hello Worlddsd
         </main>
     )
 }
